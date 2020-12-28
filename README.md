@@ -31,18 +31,18 @@ Link: [https://www.tutorialspoint.com/socket.io/socket.io_environment.htm](https
 
 
 ## Made Using
-[<img target="_blank" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">](https://socket.io/)
+[<img target="_blank" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">](https://developer.mozilla.org/en-US/docs/Web/HTML)
 &nbsp;
-[<img target="_blank" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">](https://socket.io/)
+[<img target="_blank" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">](https://developer.mozilla.org/en-US/docs/Web/CSS)
 &nbsp;
 [<img target="_blank" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 &nbsp;
 [<img target="_blank" src="https://socket.io/css/images/logo.svg">](https://socket.io/)
 
 ## Deployment
-[<img target="_blank" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">](https://socket.io/)
+[<img target="_blank" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">](https://www.netlify.com/)
 &nbsp;
-[<img target="_blank" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">](https://socket.io/)
+[<img target="_blank" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">](https://www.heroku.com/)
 
 
 
