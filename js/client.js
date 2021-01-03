@@ -1,6 +1,7 @@
 //Type this in terminal within nodeServer directory -- nodemon .\index.js
 
-const socket = io('http://localhost:8000');
+// const socket = io('https://nj-chat-application.herokuapp.com/');
+const socket = io('https://nj-chat-app.herokuapp.com/');
 
 //Get DOM elements in respective Js variables
 const form = document.getElementById('send-container');
