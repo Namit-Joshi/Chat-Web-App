@@ -68,5 +68,6 @@ clear: both;
     border: 2px solid black;
     border-radius: 6px;
     height: 40px;
+    width: 100px;
 }
 
